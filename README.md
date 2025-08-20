@@ -1,7 +1,6 @@
-# Custom IDE Builder for macOS
+#Crack YC IDE
 
 Build your own branded IDE with AI assistant powered by Featherless.ai.
-No Node.js or complex dependencies - just shell scripts!
 
 ## Quick Start
 

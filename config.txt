@@ -1,7 +1,7 @@
 # Custom IDE Configuration
 # Edit these values for your branded IDE
 
-APP_NAME="MyIDE"
+APP_NAME="Crack YC"
 APP_DISPLAY_NAME="My Custom IDE"
 APP_VERSION="1.0.0"
 BUNDLE_ID="com.mycompany.myide"
